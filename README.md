@@ -1,6 +1,13 @@
 # vue-socketio-private-messaging-tutorial
 
-## Project setup
+## Server setup
+```
+1) cd server
+2) npm install
+3) node index.js
+```
+
+## Client setup
 ```
 npm install
 ```
